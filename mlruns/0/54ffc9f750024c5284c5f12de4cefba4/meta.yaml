@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Applied%20Machine%20Learning/mlflow-test/mlruns/0/54ffc9f750024c5284c5f12de4cefba4/artifacts
+end_time: 1718111777268
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 54ffc9f750024c5284c5f12de4cefba4
+run_name: wistful-fowl-792
+run_uuid: 54ffc9f750024c5284c5f12de4cefba4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718111774387
+status: 3
+tags: []
+user_id: advai

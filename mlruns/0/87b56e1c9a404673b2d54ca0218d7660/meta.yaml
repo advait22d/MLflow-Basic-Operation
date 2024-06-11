@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Applied%20Machine%20Learning/mlflow-test/mlruns/0/87b56e1c9a404673b2d54ca0218d7660/artifacts
+end_time: 1718111729000
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 87b56e1c9a404673b2d54ca0218d7660
+run_name: rumbling-swan-354
+run_uuid: 87b56e1c9a404673b2d54ca0218d7660
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718111725296
+status: 3
+tags: []
+user_id: advai

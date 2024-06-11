@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Applied%20Machine%20Learning/mlflow-test/mlruns/0/196c46fd31984374a4a3ea3cb11cb718/artifacts
+end_time: 1718111804035
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 196c46fd31984374a4a3ea3cb11cb718
+run_name: suave-penguin-529
+run_uuid: 196c46fd31984374a4a3ea3cb11cb718
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718111800997
+status: 3
+tags: []
+user_id: advai
